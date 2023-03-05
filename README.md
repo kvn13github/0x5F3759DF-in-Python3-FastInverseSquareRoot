@@ -1,7 +1,7 @@
 
 # The magic number 0x5F3759DF in Python3 FastInverseSquareRoot
  
-**This short script demonstrates how the fast inverse square root algorithm with the magic number 0x5F3759DF can be implemented in Python, and how it can be used to calculate the inverse square root of a user-specified number.**
+**This short educational script demonstrates how the fast inverse square root algorithm with the magic number 0x5F3759DF can be implemented in Python, and how it can be used to calculate the inverse square root of a user-specified number.**
 ----------------------------------------------------------- 
 The fast inverse square root algorithm was originally developed by John Carmack, a programmer who worked on the game Quake III Arena. The algorithm was used to calculate the lighting and shading effects in the game, and was optimized for performance on the game's target hardware.
 
@@ -60,4 +60,4 @@ Overall, the fast inverse square root algorithm and the magic number 0x5F3759DF 
  
  https://en.wikipedia.org/wiki/Fast_inverse_square_root
 
-*The code is actually the result of asking ChatGPT about magic numbers and one thing led to another. It's nothing spectacular, but the code runs flawlessly and my github was still empty, so let's see if I can upload this, and who knows somebody researching the magic number 0x5F3759DF might find this little script interesting. It's not C code like the original but a Python script.*
+*The code is actually the result of asking ChatGPT about magic numbers and one thing led to another. It's nothing spectacular, but the code runs flawlessly and my github was still empty, so I figured, let's see if I can upload this, and who knows somebody researching the magic number 0x5F3759DF might find this little script interesting. It's not in C code like the original but a Python script.*
