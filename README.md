@@ -1,5 +1,5 @@
 
-# The magic number 0x5F3759DF in Python3 FastInverseSquareRoot
+# The magic number 0x5F3759DF in Python 3 for calculating the Fast Inverse SquareRoot
  
 **This short educational script demonstrates how the fast inverse square root algorithm with the magic number 0x5F3759DF can be implemented in Python, and how it can be used to calculate the inverse square root of a user-specified number.**
 ----------------------------------------------------------- 
