@@ -44,6 +44,14 @@ The magic number 0x5F3759DF is a constant used in the algorithm to help refine t
 
 Overall, the fast inverse square root algorithm and the magic number 0x5F3759DF were significant advancements in computer graphics and game development, providing a major speed improvement over previous methods and allowing for more complex and detailed scenes to be rendered in real-time. While the algorithm may not have a direct application in cybersecurity, it is an example of how mathematical algorithms and optimizations can be used to improve performance in computing applications.
 
+The fast inverse square root algorithm and the magic number 0x5F3759DF are still used in many modern game engines and graphics rendering software.
+
+For example, the Unity game engine, which is used to create many popular games, including Cuphead and Hollow Knight, uses the fast inverse square root algorithm and the magic number 0x5F3759DF in its Vector3.Normalize() function for normalizing vectors.
+
+In addition, the algorithm is also used in popular graphics rendering software, such as Blender and Autodesk Maya, to calculate lighting and shading effects in 3D models.
+
+Overall, the fast inverse square root algorithm and the magic number 0x5F3759DF continue to be important tools in the field of computer graphics and game development, and their impact on the industry is still felt today.
+
 
  more info: 
  
